@@ -40,3 +40,9 @@ ro.config.kap_default_on=false
 ro.config.kap=false
 ro.config.knox=0
 wlan.wfd.hdcp=disable
+#
+# SUPPORT T/W8 DEVICES
+#
+persist.eons.enabled=true
+persist.radio.apm_sim_not_pwdn=1
+persist.radio.rilversion=8
